@@ -9,16 +9,16 @@ port: 3000
 safe: true
 
 
-url: http://tapasweni-pathak.github.io/
-baseurl: http://tapasweni-pathak.github.io/
-title: Tapasweni Pathak
-author: Tapasweni Pathak
-description: Homepage of Tapasweni Pathak.
+url: http://pranavg189.github.io/
+baseurl: http://pranavg189.github.io/
+title: Pranav Ganorkar
+author: Pranav Ganorkar
+description: Homepage of Pranav Ganorkar.
 avatar: profile.png
-email: tapaswenipathak@gmail.com
-github: tapasweni-pathak # username
-twitter: TapasweniPathak
-linkedin: tapaswenipathak
+email: pranavg189@gmail.com
+github: pranavg189 # username
+twitter: pranavg189
+linkedin: pranavganorkar
 
 
 # needed for travis-ci build
