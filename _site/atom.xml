@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Tapasweni Pathak</title>
+    <link type="application/atom+xml" rel="self" href="http://tapasweni-pathak.github.io//atom.xml"/>
+  
+  <link href="http://tapasweni-pathak.github.io//"/>
+  <id>http://tapasweni-pathak.github.io//</id>
+  <updated>2016-01-01T22:45:16Z</updated>
+  <author>
+    <name>Tapasweni Pathak</name>
+    <email>tapaswenipathak@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2016 Tapasweni Pathak. All rights reserved.</rights>
+  
+
+</feed>
